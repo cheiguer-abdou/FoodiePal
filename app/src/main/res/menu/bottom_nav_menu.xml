@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Recipes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Recipes"
+        android:icon="@drawable/baseline_food_bank_24"/>
+    <item
+        android:id="@+id/MealPlanner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Meal Planner"
+        android:icon="@drawable/baseline_cookie_24"/>
+    <item
+        android:id="@+id/Blog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Blog"
+        android:icon="@drawable/baseline_article_24"/>
+</menu>
